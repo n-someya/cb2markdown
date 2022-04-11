@@ -40,7 +40,7 @@ const changed = () => {
   <n-layout-header
     style="height: 54px; padding: 10px"
     bordered>
-    <h1>Clipboard2Markdown</h1>
+    <h1>CB2Markdown</h1>
   </n-layout-header>
   <n-layout-content position="absolute" style="top: 64px; bottom: 64px"
     content-style="padding: 24px;">
